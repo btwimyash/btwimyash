@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on *Open-source AI, Web Development, or ML projects*
 - 💬 Ask me about *Java, React, Node.js, Python, MediaPipe, or Computer Vision*
 - 📫 How to reach me: *yash16gavali@gmail.com*
-- 📄 Know about my experiences: [*View Resume*](./Yash_Gavali_VIIT_Resume.pdf)
+- 📄 Know about my experiences: [*View Resume*](./Yash_Gavali_viit.pdf)
 
 ---
 
