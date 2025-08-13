@@ -15,8 +15,8 @@ Passionate about building intelligent systems that bridge the gap between AI res
 ---
 
 ## 🔭 Currently Working On
-- 🐾 [**Stray Help**](#) – AI-powered stray animal welfare reporting system (SIH 2024)
-- 🌍 [**Carbon Footprint Tracker**](#) – Personalized environmental impact analysis tool
+- 🐾 [**Stray Connect**](#) – AI-powered stray animal welfare reporting system (SIH 2024)
+- 🏡 [**Wanderlust**](#) – Airbnb-inspired full-stack accommodation booking platform
 - 🤖 AI projects using **MediaPipe, OpenCV, and Deep Learning**
 
 ---
@@ -29,8 +29,8 @@ Passionate about building intelligent systems that bridge the gap between AI res
 ---
 
 ## 💬 Ask Me About
-- **Languages:** Java, Python, C++, JavaScript  
-- **Web Development:** React, Node.js, Express, MongoDB  
+- **Languages:** Java, Python, C++, JavaScript , SQL
+- **Web Development:** React, Node.js, Express.js, MongoDB  
 - **AI/ML:** MediaPipe, OpenCV, Computer Vision  
 
 📫 Reach me at: **yash16gavali@gmail.com**  
@@ -52,7 +52,7 @@ Passionate about building intelligent systems that bridge the gap between AI res
 
 ## 🛠 Languages & Tools
 **💻 Languages:**  
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql" />
 
 **🌐 Web Development:**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
